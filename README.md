@@ -17,6 +17,7 @@
   <a href="https://linkedin.com/in/mahdi-s24"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/6419842/mahdi"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <a href="https://x.com/mahdi_s24"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://mahdis24.tech/assets/Mahdi_Salek_Front_End_Engineer.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume_PDF-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
 <br />
@@ -87,6 +88,7 @@
 ## 📫 Get in Touch
 
 - **Website:** [mahdis24.tech](https://mahdis24.tech)
-- **Email:** [mahdi.6n@gmail.com](mailto:mahdi.6n@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mahdi-s24](https://linkedin.com/in/mahdi-s24)
+- **Email:** [mahdi.6n@gmail.com](mailto:mahdi.6n@gmail.com)
 - **Telegram:** [@mahdi_s24](https://t.me/mahdi_s24) (Fastest response)
+- **Resume:** [Download PDF](https://mahdis24.tech/assets/Mahdi_Salek_Front_End_Engineer.pdf)
