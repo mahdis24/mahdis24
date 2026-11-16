@@ -76,8 +76,7 @@
 <br />
 
 ## 📊 GitHub Activity
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=mahdis24&hide_border=true&background=0D1117&stroke=1C2C3A&ring=42B883&fire=42B883&currStreakNum=F4F7FB&sideNums=F4F7FB&currStreakLabel=42B883&sideLabels=8EA0B5&dates=8EA0B5">
+<img src="./profile/streak.svg" alt="GitHub Streak of mahdis24" />
 
 <img src="./profile/stats.svg" alt="GitHub Stats for mahdis24" />
 
