@@ -79,10 +79,9 @@
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=mahdis24&hide_border=true&background=0D1117&stroke=1C2C3A&ring=42B883&fire=42B883&currStreakNum=F4F7FB&sideNums=F4F7FB&currStreakLabel=42B883&sideLabels=8EA0B5&dates=8EA0B5">
 
-<img alt="GitHub stats for mahdis24" src="https://github-readme-stats.vercel.app/api?username=mahdis24&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=42b883&icon_color=42b883&text_color=d5dee8&include_all_commits=true">
+<img src="./profile/stats.svg" alt="GitHub Stats for mahdis24" />
 
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis24&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=42b883&text_color=d5dee8">
-
+<img src="./profile/top-langs.svg" alt="Most used languages by mahdis24" />
 <br />
 
 ## 📫 Get in Touch
