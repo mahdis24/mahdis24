@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="375"
-        viewBox="0 0 300 375"
+        height="400"
+        viewBox="0 0 300 400"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -140,7 +140,7 @@
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
           stroke-dashoffset="0"
-          size="35.8594602275378"
+          size="35.86196600460831"
           data-testid="lang-donut"
         />
       </g>
@@ -154,8 +154,8 @@
           stroke="#e34c26"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="180.249306900045"
-          size="27.01906088243291"
+          stroke-dashoffset="180.261902309383"
+          size="27.020948912615083"
           data-testid="lang-donut"
         />
       </g>
@@ -169,8 +169,8 @@
           stroke="#f1e05a"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="316.0619199802795"
-          size="19.471727738798634"
+          stroke-dashoffset="316.08400566441765"
+          size="19.473088378601393"
           data-testid="lang-donut"
         />
       </g>
@@ -184,8 +184,8 @@
           stroke="#663399"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="413.9374988873361"
-          size="14.877198385735152"
+          stroke-dashoffset="413.9664238930879"
+          size="14.878237970334359"
           data-testid="lang-donut"
         />
       </g>
@@ -199,8 +199,8 @@
           stroke="#3178c6"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="488.7184543347337"
-          size="1.4397499773055826"
+          stroke-dashoffset="488.7526048626289"
+          size="1.4398505837413045"
           data-testid="lang-donut"
         />
       </g>
@@ -211,11 +211,26 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#4F5D95"
+          stroke="#427819"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="495.95542705746857"
-          size="1.332802788189907"
+          stroke-dashoffset="495.9900832884668"
+          size="0.9922565756040768"
+          data-testid="lang-donut"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 700ms">
+        <circle
+          cx="150"
+          cy="100"
+          r="80"
+          fill="transparent"
+          stroke="#ff6347"
+          stroke-width="25"
+          stroke-dasharray="502.6548245743669"
+          stroke-dashoffset="500.97770883789707"
+          size="0.3336515744954633"
           data-testid="lang-donut"
         />
       </g>
@@ -245,25 +260,32 @@
         JavaScript 19.47%
       </text>
     </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 14.88%
       </text>
     </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TypeScript 1.44%
       </text>
     </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#427819" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Makefile 0.99%
+      </text>
+    </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
+      <circle cx="5" cy="6" r="5" fill="#ff6347" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 1.33%
+        Stylus 0.33%
       </text>
     </g>
   </g></g>
