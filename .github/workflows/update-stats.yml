@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: 'username=mahdis24&theme=vue&hide_border=false&bg_color=ffffff&border_color=e1e4e8&title_color=42b883&text_color=24292f&hide=rust,c,php&langs_count=6&size_weight=0.5&count_weight=0.5&layout=donut-vertical'
+          options: 'username=mahdis24&theme=vue&hide_border=false&bg_color=ffffff&border_color=e1e4e8&title_color=42b883&text_color=24292f&hide=rust,c,php&langs_count=6&size_weight=0.5&count_weight=0.5&layout=donut'
           path: profile/top-langs.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
