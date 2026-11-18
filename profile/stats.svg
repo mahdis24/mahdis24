@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mahdi Salek&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  : 5975, Total PRs: 347, Total PRs Merged: 340, Merged PRs Percentage: 97.98, Total PRs Reviewed: 14, Total Issues: 6, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  : 5976, Total PRs: 347, Total PRs Merged: 340, Merged PRs Percentage: 97.98, Total PRs Reviewed: 14, Total Issues: 6, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #d5dee8;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #24292f;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #d5dee8;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #24292f;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.71861977055431;
+        stroke-dashoffset: 83.71815833682174;
       }
     }
   
@@ -116,10 +116,10 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#e1e4e8"
           width="466"
-          fill="#0d1117"
-          stroke-opacity="0"
+          fill="#ffffff"
+          stroke-opacity="1"
         />
 
         
