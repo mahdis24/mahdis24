@@ -1,5 +1,3 @@
-<!-- @format -->
-
 <h1 align="center">Hi, I'm Mahdi Salek 👋</h1>
 
 <p align="center">
@@ -76,11 +74,13 @@
 <br />
 
 ## 📊 GitHub Activity
+
 <img src="./profile/streak.svg" alt="GitHub Streak of mahdis24" />
 
 <img src="./profile/stats.svg" alt="GitHub Stats for mahdis24" />
 
 <img src="./profile/top-langs.svg" alt="Most used languages by mahdis24" />
+
 <br />
 
 ## 📫 Get in Touch
