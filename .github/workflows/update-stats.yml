@@ -22,7 +22,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: 'user=mahdis24&hide_border=false&background=FFFFFF&border=E1E4E8&stroke=E1E4E8&ring=42B883&fire=42B883&currStreakNum=24292F&sideNums=24292F&currStreakLabel=42B883&sideLabels=57606A&dates=57606A&mode=weekly&exclude_days=Sat,Sun'
+          options: 'user=mahdis24&hide_border=false&background=FFFFFF&border=E1E4E8&stroke=E1E4E8&ring=42B883&fire=42B883&currStreakNum=24292F&sideNums=24292F&currStreakLabel=42B883&sideLabels=57606A&dates=57606A&mode=weekly'
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
