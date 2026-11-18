@@ -22,7 +22,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: 'user=mahdis24&hide_border=true&background=0D1117&stroke=1C2C3A&ring=42B883&fire=42B883&currStreakNum=F4F7FB&sideNums=F4F7FB&currStreakLabel=42B883&sideLabels=8EA0B5&dates=8EA0B5&mode=weekly&exclude_days=Sat,Sun'
+          options: 'user=mahdis24&hide_border=false&background=FFFFFF&border=E1E4E8&stroke=E1E4E8&ring=42B883&fire=42B883&currStreakNum=24292F&sideNums=24292F&currStreakLabel=42B883&sideLabels=57606A&dates=57606A&mode=weekly&exclude_days=Sat,Sun'
           path: profile/streak.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=mahdis24&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=42b883&icon_color=42b883&text_color=d5dee8&show=reviews,prs_merged,prs_merged_percentage&count_private=true'
+          options: 'username=mahdis24&show_icons=true&include_all_commits=true&theme=vue&hide_border=false&bg_color=ffffff&border_color=e1e4e8&title_color=42b883&icon_color=42b883&text_color=24292f&show=reviews,prs_merged,prs_merged_percentage&count_private=true'
           path: profile/stats.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: 'username=mahdis24&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=42b883&text_color=d5dee8&hide=rust,c,php&langs_count=6&size_weight=0.5&count_weight=0.5&layout=donut-vertical'
+          options: 'username=mahdis24&theme=vue&hide_border=false&bg_color=ffffff&border_color=e1e4e8&title_color=42b883&text_color=24292f&hide=rust,c,php&langs_count=6&size_weight=0.5&count_weight=0.5&layout=donut-vertical'
           path: profile/top-langs.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
 
