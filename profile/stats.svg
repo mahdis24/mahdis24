@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mahdi Salek&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  : 5982, Total PRs: 347, Total PRs Merged: 340, Merged PRs Percentage: 97.98, Total PRs Reviewed: 14, Total Issues: 6, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  : 6075, Total PRs: 347, Total PRs Merged: 340, Merged PRs Percentage: 97.98, Total PRs Reviewed: 15, Total Issues: 6, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.71539644102155;
+        stroke-dashoffset: 82.66576419982158;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >16</text>
+      >17</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >6k</text>
+      >6.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -244,7 +244,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >14</text>
+      >15</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
